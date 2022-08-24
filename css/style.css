@@ -24,9 +24,9 @@ main {
 .pokemon__image {
   position: absolute;
   bottom: 55%;
-  left: 50%;
+  left: 51%;
   transform: translate(-73%, 20%);
-  height: 18%;
+  height: 14%;
 }
 .pokemon__data {
   position: absolute;
@@ -80,5 +80,5 @@ main {
 }
 .button:active {
   box-shadow: inset -4px 4px 0 #222;
-  font-size: 0.9rem;2
+  font-size: 0.9rem;
 }
